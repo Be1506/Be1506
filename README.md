@@ -1,7 +1,10 @@
 # Breno-Augusto
 
 
-Desenvolvedor back-end em formação, focado em construir soluções sólidas e bem estruturadas.
+Tenho 17 anos e sou desenvolvedor back-end em formação, estudante de Análise e Desenvolvimento de Sistemas.
+Sempre fui apaixonado por tecnologia — foi esse amor que me trouxe até a programação e que me motiva a evoluir todos os dias. Atualmente focado em Java e Spring Boot, construindo projetos práticos com APIs REST e banco de dados relacional. Também atuo como estagiário de TI em ambiente escolar, lidando com suporte técnico e infraestrutura no dia a dia.
+Fora do código, gosto de ouvir música e assistir filmes.
+Meu objetivo é me tornar um Desenvolvedor Back-end e construir soluções que façam diferença.
 
 
 
@@ -14,6 +17,8 @@ Desenvolvedor back-end em formação, focado em construir soluções sólidas e 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
